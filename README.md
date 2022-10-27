@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently studying on BIT
+- 🔭 I’m currently studying at BIT
 - 🌱 I’m currently learning Federated Learning and Privacy Preserving
 <!--
 - 👯 I’m looking to collaborate on ...
