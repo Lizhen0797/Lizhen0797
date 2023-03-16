@@ -5,8 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently studying at BIT
-- 🌱 I’m currently learning Federated Learning and Privacy Preserving
+- 🔭 I’m currently pursuing PhD degree at Beijing Institute of Technology(BIT)
+- 🌱 I’m currently learning Homomorphic Encryption(HE) and Secure Multi-party Computation(SMC)
+- 🤔 I‘m try to apply the HE and SMC in the Blockchain
+- 📫 How to reach me: li.zhen_cn@hotmail.com
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
